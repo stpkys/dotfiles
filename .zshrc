@@ -11,7 +11,7 @@ fi
 DOTFILES_HOME="$HOME/Work/dotfiles/"
 # Path to your oh-my-zsh installation.
 export ZSH="${DOTFILES_HOME}/ohmyzsh"
-export ZSH_CUSTOM="${DOFILES_HOME}/ohmyzsh_custom"
+export ZSH_CUSTOM="${DOTFILES_HOME}/ohmyzsh_custom"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
